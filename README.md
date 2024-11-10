@@ -1,4 +1,3 @@
 # NEW
 
 * second
-* *first one*
